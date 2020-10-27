@@ -1,4 +1,4 @@
-### Hi there, I'm [Mustafa Uysal!](https://www.ohidur.com) 👋
+### Hi there, I'm [Mustafa Uysal!](https://github.com/UysalMustafaa) 👋
 <a href="https://twitter.com/Mustafaauysall1">
   <img align="left" alt="Mustafa Uysal's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
