@@ -16,7 +16,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-- 🔭 I’m currently working on my project [Discovery](https://github.com/UysalMustafaa/Discovery)
+- 🔭 I’m currently working on my project [Note-Basket](https://github.com/UysalMustafaa/Note-Basket)
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything [here](https://github.com/UysalMustafaa/UysalMustafaa/issues)
 - 📫 How to reach me: uysall.mustafaa@gmail.com <br>
