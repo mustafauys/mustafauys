@@ -16,7 +16,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-- 🔭 I’m currently working on my project [Redesign Instagram](https://github.com/UysalMustafaa/Redesign-Instagram)
+- 🔭 I’m currently working on my project [News Writer App](https://github.com/UysalMustafaa/News-Writer-App)
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything [here](https://github.com/UysalMustafaa/UysalMustafaa/issues)
 - 📫 How to reach me: uysall.mustafaa@gmail.com <br>
