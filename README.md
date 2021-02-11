@@ -17,10 +17,8 @@
 ### Glad to see you here! 🤩 &nbsp;
 
 - 🔭 I’m currently working on my project [News Writer App](https://github.com/UysalMustafaa/News-Writer-App)
-- 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything [here](https://github.com/UysalMustafaa/UysalMustafaa/issues)
 - 📫 How to reach me: uysall.mustafaa@gmail.com <br>
-- 🥅 2020 Goals: Contribute more to Open Source projects
 
 **Languages and Tools:** &nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
