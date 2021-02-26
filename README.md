@@ -22,7 +22,6 @@
 - 🔭 I’m currently working on my project [News Writer App](https://github.com/UysalMustafaa/News-Writer-App)
 - 💬 Ask me about anything [here](https://github.com/UysalMustafaa/UysalMustafaa/issues)
 - 👯 I’m looking to collaborate with anyone with any project
-- ⚡ Fun fact: Playing football
 - 📫 How to reach me: uysall.mustafaa@gmail.com <br>
 
 **Languages and Tools:** &nbsp;
@@ -34,7 +33,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-## 💬 My Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=uysalmustafaa&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uysalmustafaa&theme=tokyonight)
 
