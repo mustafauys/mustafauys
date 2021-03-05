@@ -19,7 +19,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-- 🔭 I’m currently working on my project [News Writer App](https://github.com/UysalMustafaa/News-Writer-App)
+- 🔭 I’m currently working on my project [Tinder UI Clone](https://github.com/UysalMustafaa/Tinder-UI-Clone)
 - 💬 Ask me about anything [here](https://github.com/UysalMustafaa/UysalMustafaa/issues)
 - 👯 I’m looking to collaborate with anyone with any project
 - 📫 How to reach me: uysall.mustafaa@gmail.com <br>
