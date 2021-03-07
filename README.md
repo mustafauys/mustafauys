@@ -17,10 +17,9 @@
 
 <br />
 
-### Glad to see you here! 🤩 &nbsp;
+### Glad to see you here! &nbsp;
 
 - 🔭 I’m currently working on my project [Tinder UI Clone](https://github.com/UysalMustafaa/Tinder-UI-Clone)
-- 👯 I’m looking to collaborate with anyone with any project
 - 📫 How to reach me: uysall.mustafaa@gmail.com <br>
 
 **Languages and Tools:** &nbsp;
