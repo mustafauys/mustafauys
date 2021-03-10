@@ -1,36 +1,26 @@
-### Hi there, I'm [Mustafa Uysal!](https://github.com/UysalMustafaa) 👋
+<h1 align="center">Hi 👋, I'm Mustafa</h1>
+<h3 align="center">Developer (22y) from Manisa</h3>
 
 ## ![](https://visitor-badge.laobi.icu/badge?page_id=uysalmustafaa.uysalmustafaa)
 
-<a href="https://twitter.com/Mustafaauysall1">
-  <img align="left" alt="Mustafa Uysal's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+### 🛠 Tech Stack
+![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=Java)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=239120)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android%20Studio)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### 📊 GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/uysalmustafaa">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=uysalmustafaa&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true%22%20alt=%22uysalmustafaa"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uysalmustafaa&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia%22%20alt=%22uysalmustafaa"/>
 </a>
-<a href="https://www.linkedin.com/in/mustafa-uysal-a7270517b/">
-  <img align="left" alt="Mustafa Uysal's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/UysalMustafaa">
-  <img align="left" alt="Mustafa Uysal's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/mustafa.uysa1">
-  <img align="left" alt="Mustafa Uysal's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<br />
-
-### Glad to see you here! &nbsp;
-
-- 🔭 I’m currently working on my project [Tinder UI Clone](https://github.com/UysalMustafaa/Tinder-UI-Clone)
-- 📫 How to reach me: uysall.mustafaa@gmail.com <br>
-
-**Languages and Tools:** &nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=uysalmustafaa&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uysalmustafaa&theme=tokyonight)
+</p>
 
