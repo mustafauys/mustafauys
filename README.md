@@ -12,3 +12,9 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android%20Studio)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<p>
+<a href="https://github.com/uysalmustafaa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uysalmustafaa&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uysalmustafaa&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
