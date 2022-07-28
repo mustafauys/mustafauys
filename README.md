@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
-
 ## ![](https://visitor-badge.laobi.icu/badge?page_id=uysalmustafaa.uysalmustafaa)
 
 ### 🛠 Tech Stack
