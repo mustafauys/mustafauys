@@ -1,4 +1,4 @@
-## ![](https://visitor-badge.laobi.icu/badge?page_id=uysalmustafaa.uysalmustafaa)
+## ![](https://visitor-badge.laobi.icu/badge?page_id=mustafauysaI.mustafauysaI)
 
 ### 🛠 Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
@@ -14,7 +14,7 @@
 
 <p>
 <a href="https://github.com/uysalmustafaa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uysalmustafaa&show_icons=true&theme=algolia&bg_color=0,000000,130F40&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uysalmustafaa&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mustafauysaI&show_icons=true&theme=algolia&bg_color=0,000000,130F40&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafauysaI&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c" />
 </a>
 </p>
